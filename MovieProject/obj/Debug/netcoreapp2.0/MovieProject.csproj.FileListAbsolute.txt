@@ -1,0 +1,10 @@
+C:\Users\Combii\source\repos\MovieProject\MovieProject\bin\Debug\netcoreapp2.0\MovieProject.deps.json
+C:\Users\Combii\source\repos\MovieProject\MovieProject\bin\Debug\netcoreapp2.0\MovieProject.runtimeconfig.json
+C:\Users\Combii\source\repos\MovieProject\MovieProject\bin\Debug\netcoreapp2.0\MovieProject.runtimeconfig.dev.json
+C:\Users\Combii\source\repos\MovieProject\MovieProject\bin\Debug\netcoreapp2.0\MovieProject.dll
+C:\Users\Combii\source\repos\MovieProject\MovieProject\obj\Debug\netcoreapp2.0\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\Combii\source\repos\MovieProject\MovieProject\obj\Debug\netcoreapp2.0\MovieProject.AssemblyInfoInputs.cache
+C:\Users\Combii\source\repos\MovieProject\MovieProject\obj\Debug\netcoreapp2.0\MovieProject.AssemblyInfo.cs
+C:\Users\Combii\source\repos\MovieProject\MovieProject\bin\Debug\netcoreapp2.0\MovieProject.pdb
+C:\Users\Combii\source\repos\MovieProject\MovieProject\obj\Debug\netcoreapp2.0\MovieProject.dll
+C:\Users\Combii\source\repos\MovieProject\MovieProject\obj\Debug\netcoreapp2.0\MovieProject.pdb
